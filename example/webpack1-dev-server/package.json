@@ -12,6 +12,6 @@
     "start": "webpack-dev-server --config webpack.config.client.js --content-base=public --hot --inline --port=3000 --progress"
   },
   "dependencies": {
-    "react": "0.14.8"
+    "react": "0.14.9"
   }
 }
